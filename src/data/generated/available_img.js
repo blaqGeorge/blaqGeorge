@@ -1,1 +1,0 @@
-define({ availableImg: ["aher2024deep","Beck2016Visual","modi2024opticalflow","nagy2025kalman","ren2018multiobject","saripudin2019tracking","wang2024stability","yin2024uavnavigation","yuan2020star","zhang2022benchmark","zhong2021visualservoing"]});
